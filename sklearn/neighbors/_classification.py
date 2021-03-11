@@ -1,4 +1,4 @@
-"""Nearest Neighbor Classification"""
+# K Nearest Neighbor Classification
 
 # Authors: Jake Vanderplas <vanderplas@astro.washington.edu>
 #          Fabian Pedregosa <fabian.pedregosa@inria.fr>
